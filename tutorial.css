@@ -1,8 +1,12 @@
-h1 {
-  color: red;
-  postion: center;
+.top-bar {
+  font-family: 'ABeeZee', sans-serif;
+  color: white;
+  background-color: #FF6666;
+  font-size: 50px;
+  padding-left: 10%;
+  font-weight: bolder;
 }
 
-p {
-  color: yellow;
+.top-bar:hover {
+  background-color: rgb(0, 100, 100);
 }
