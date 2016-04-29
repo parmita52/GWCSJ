@@ -56,11 +56,11 @@ body {
 img.media
 {
   width: 50px;
-  opacity: 1.0;
+  opacity: 0.6;
   padding: 2%;
 }
 
 img.media:hover
 {
-  box-shadow: 10px 10px 5px #888888;
+  opacity: 1.0;
 }
