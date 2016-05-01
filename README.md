@@ -3,3 +3,5 @@
 ****
 Girls Who Code final club project 
 Making a webpage!
+
+[Click here to see how much I've done so far!](https://htmlpreview.github.io/?https://github.com/parmita52/GirlsWhoCodeSJ/blob/gh-pages/index.html)
