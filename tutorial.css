@@ -50,6 +50,7 @@ body {
 .Pics {
   float: right;
   padding-left: 5px;
+  width: 33%;
 }
 
 .bottom
