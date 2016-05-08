@@ -3,12 +3,17 @@ body {
   font-size: 18px;
 }
 
+a{
+  color: #ff445e;
+}
+
 .menu {
   font-weight: bolder;
   font-family: 'Poppins', sans-serif;
   color: white;
   background-color: #FF6666;
   font-size: 20px;
+  text-decoration: none;
 }
 
 #About {
@@ -50,7 +55,7 @@ body {
 .Pics {
   float: right;
   padding-left: 5px;
-  width: 33%;
+  width: 20%;
 }
 
 .bottom
